@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/de44de37-f94f-40c6-b825-3137c08c8736
 ## 🚀 Quick Start
 
 ```python
-
+from transformers import AutoModelForCausalLM, AutoTokenizer
 MODEL_PATH = "Dream-org/DreamReasoner-8B"
 PROMPT = (
     "If $f(x) = \\frac{3x-2}{x-2}$, what is the value of $f(-2)+f(-1)+f(0)$? "
