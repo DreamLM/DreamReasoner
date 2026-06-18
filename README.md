@@ -4,8 +4,8 @@
 # DreamReasoner-8B
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2606.19257)
-[![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-DreamReasoner--8B-yellow)](https://huggingface.co/Dream-org/DreamReasoner-8B-Base)
-[![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-DreamReasoner--8B--Base-yellow)](https://huggingface.co/Dream-org/DreamReasoner-8B)
+[![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-DreamReasoner--8B-yellow)](https://huggingface.co/Dream-org/DreamReasoner-8B)
+[![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-DreamReasoner--8B--Base-yellow)](https://huggingface.co/Dream-org/DreamReasoner-8B-Base)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](LICENSE)
 
 **DreamReasoner-8B** is an open-source block diffusion reasoning model designed for complex mathematical reasoning and code generation. Through block-size curriculum learning, we adapt Qwen3-8B-Base to a block diffusion model with performance comparable to Qwen3-8B-Thinking.
