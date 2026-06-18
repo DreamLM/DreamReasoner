@@ -3,7 +3,7 @@
 
 # DreamReasoner-8B
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](YOUR_ARXIV_LINK)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2606.19257)
 [![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-DreamReasoner--8B-yellow)](https://huggingface.co/Dream-org/DreamReasoner-8B-Base)
 [![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-DreamReasoner--8B--Base-yellow)](https://huggingface.co/Dream-org/DreamReasoner-8B)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](LICENSE)
@@ -86,5 +86,13 @@ for prompt, output in zip(prompts, outputs):
 
 ## Citation
 ```
-Arxiv bibtex coming soon.
+@misc{wu2026dreamreasoner8bblocksizecurriculumlearning,
+      title={DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models}, 
+      author={Zirui Wu and Lin Zheng and Jiacheng Ye and Shansan Gong and Xueliang Zhao and Yansong Feng and Wei Bi and Lingpeng Kong},
+      year={2026},
+      eprint={2606.19257},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2606.19257}, 
+}
 ```
